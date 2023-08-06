@@ -1,5 +1,5 @@
 # AzureVideoIndexerInsightsJSONPythonScripts
-Python scripts to help you parse Azure Video Indexer's nested JSON output for the advanced video and audio option.
+A Python script to help you parse Azure Video Indexer's nested JSON output (advanced video and audio option) for conversion into a Pandas DataFrame. Includes a follow-up script describing an actual use case for the DataFrame output.
 
 AzureVideoIndexerGeneralJSONToDataFrameScript.ipynb is a base function that can be used anywhere, and AzureVideoIndexer3DCoordinatesConcatenationScript.ipynb is an extended use case that serves as an example of using the base function. (Original use case is described [here](https://w2.mat.ucsb.edu/forum/viewtopic.php?f=88&t=377&p=2528&sid=d9c3eea3a50afd0ab8409c6b57d98f06#p2528)).
 
